@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IPM-P1-G6-24-App/static/css/main.f855e6bc.css",
+    "main.js": "/IPM-P1-G6-24-App/static/js/main.9ba95781.js",
+    "static/js/453.c0dae19f.chunk.js": "/IPM-P1-G6-24-App/static/js/453.c0dae19f.chunk.js",
+    "static/media/logo.svg": "/IPM-P1-G6-24-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/IPM-P1-G6-24-App/index.html",
+    "main.f855e6bc.css.map": "/IPM-P1-G6-24-App/static/css/main.f855e6bc.css.map",
+    "main.9ba95781.js.map": "/IPM-P1-G6-24-App/static/js/main.9ba95781.js.map",
+    "453.c0dae19f.chunk.js.map": "/IPM-P1-G6-24-App/static/js/453.c0dae19f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9ba95781.js"
+  ]
+}
