@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/IPM-P1-G6-24-App/static/css/main.b2aaf27e.css",
+    "main.css": "/IPM-P1-G6-24-App/static/css/main.0cc98e48.css",
     "main.js": "/IPM-P1-G6-24-App/static/js/main.9e203d07.js",
     "static/js/453.c0dae19f.chunk.js": "/IPM-P1-G6-24-App/static/js/453.c0dae19f.chunk.js",
     "index.html": "/IPM-P1-G6-24-App/index.html",
-    "main.b2aaf27e.css.map": "/IPM-P1-G6-24-App/static/css/main.b2aaf27e.css.map",
+    "main.0cc98e48.css.map": "/IPM-P1-G6-24-App/static/css/main.0cc98e48.css.map",
     "main.9e203d07.js.map": "/IPM-P1-G6-24-App/static/js/main.9e203d07.js.map",
     "453.c0dae19f.chunk.js.map": "/IPM-P1-G6-24-App/static/js/453.c0dae19f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2aaf27e.css",
+    "static/css/main.0cc98e48.css",
     "static/js/main.9e203d07.js"
   ]
 }
